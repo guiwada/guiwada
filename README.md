@@ -23,7 +23,8 @@ Estudante de Engenharia da Computação com experiência consolidada em PHP, SQL
 
   
 </div>
-## Frameworks, Bibliotecas, Banco de Dados e Hospedagem
+
+### Frameworks, Bibliotecas, Banco de Dados e Hospedagem
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=%23ffffff&color=%238000ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=%23ffffff&color=%238000ff)
