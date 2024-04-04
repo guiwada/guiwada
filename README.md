@@ -3,7 +3,7 @@
 ## Meus Contatos
 
 [![G-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%23ffffff&color=%238000ff)](mailto:wadas3241@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=%238000ff)](https://www.linkedin.com/in/guilherme-wada/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=%238000ff)](https://www.linkedin.com/in/guilherme-wada/)
 
 ## Sobre mim
 
@@ -13,19 +13,24 @@ Estudante de Engenharia da Computação com experiência consolidada em PHP, SQL
 
 ### Linguagens
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:wadas3241@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-wada-518624202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23ffffff&color=%238000ff)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23ffffff&color=%238000ff)
+![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=%23FF0000&labelColor=%23ffffff&color=%238000ff)
+![Pyhton]([https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=%23FF0000&labelColor=%23ffffff&color=%238000ff](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiwada&hide_progress=true)
+  
 </div>
+### Frameworks, Bibliotecas, Banco de Dados e Hospedagem
+
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=%23ffffff&color=%238000ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=%23ffffff&color=%238000ff)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000?style=for-the-badge&logo=githubpages&logoColor=%23222222&labelColor=%23ffffff&color=%238000ff)
+
+### Softwares e Ferramentas
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=%23ffffff&color=%238000ff)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23ffffff&color=%23
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=%23ffffff&color=%238000ff)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
+
