@@ -17,8 +17,8 @@ Estudante de Engenharia da Computação com experiência consolidada em PHP, SQL
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23ffffff&color=%238000ff)
 ![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=%23FF0000&labelColor=%23ffffff&color=%238000ff)
-![Pyhton](https://img.shields.io/badge/Pyhton-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
-![Pyhton](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
+![Pyhton](https://img.shields.io/badge/Pyhton-000?style=for-the-badge&logo=Pyhton&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=Laravel&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
 
   
 </div>
@@ -34,7 +34,7 @@ Estudante de Engenharia da Computação com experiência consolidada em PHP, SQL
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23ffffff&color=%238000ff)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=%23ffffff&color=%238000ff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
-![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
-![Xampp](https://img.shields.io/badge/Xampp-000?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
+![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=Eclipse&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
+![Xampp](https://img.shields.io/badge/Xampp-000?style=for-the-badge&logo=Xampp&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiwada&layout=compact)
