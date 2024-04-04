@@ -30,7 +30,7 @@ Estudante de Engenharia da Computação com experiência consolidada em PHP, SQL
 ### Softwares e Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=%23ffffff&color=%238000ff)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23ffffff&color=%23
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23ffffff&color=%238000ff)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=%23ffffff&color=%238000ff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
 
