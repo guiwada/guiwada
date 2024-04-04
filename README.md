@@ -18,7 +18,7 @@ Estudante de Engenharia da Computação com experiência consolidada em PHP, SQL
 ![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=%23FF0000&labelColor=%23ffffff&color=%238000ff)
 ![Pyhton](https://img.shields.io/badge/Pyhton-000?style=for-the-badge&logo=Pyhton&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=Laravel&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%238000ff)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=Laravel&logoColor=%23F7DF1E&labelColor=%23ffffff&color=%FF2D20)
 
   
 </div>
